@@ -1,0 +1,381 @@
+﻿Time da Casa,Posição do Time da Casa,Time Visitante,Posição do Time Visitante,Rodada,Data do Jogo,Hora do Jogo,Resultado Final - Time da Casa,Resultado Final - Time Visitante,Estádio,Público,Árbitro
+SE Palmeiras,4,Cuiabá EC,15,1,"sáb, 15/04/23",16:00,2,1,Allianz Parque,35.835 torcedores,Paulo Cesar Zanovelli
+América Mineiro,20,Fluminense FC,1,1,"sáb, 15/04/23",16:00,0,3,Estádio Raimundo Sampaio,6.653 torcedores,Braulio da Silva Machado
+Botafogo FR,6,São Paulo FC,14,1,"sáb, 15/04/23",18:30,2,1,Estádio Olímpico Nilton Santos,11.708 torcedores,Ramon Abatti
+RB Bragantino,5,EC Bahia,12,1,"sáb, 15/04/23",18:30,2,1,Estádio Nabi Abi Chedid,3.368 torcedores,Maguielson Lima Barbosa
+Athletico Paranaense,3,Goiás EC,18,1,"sáb, 15/04/23",18:30,2,0,Ligga Arena,15.329 torcedores,Rafael Rodrigo Klein
+Fortaleza EC,11,SC Internacional,10,1,"sáb, 15/04/23",18:30,1,1,Estádio Governador Plácido Castelo,30.191 torcedores,Edina Alves Batista
+Atlético Mineiro,16,CR Vasco da Gama,8,1,"sáb, 15/04/23",21:00,1,2,Estádio Governador Magalhães Pinto,34.980 torcedores,Raphael Claus
+CR Flamengo,2,Coritiba FC,19,1,"dom, 16/04/23",16:00,3,0,Estádio Jornalista Mário Filho,42.848 torcedores,Rodrigo Jose Pereira de Lima
+SC Corinthians,7,Cruzeiro EC,13,1,"dom, 16/04/23",16:00,2,1,Neo Química Arena,41.304 torcedores,Anderson Daronco
+Grêmio FBPA,9,Santos FC,17,1,"dom, 16/04/23",18:30,1,0,Estádio Alfredo Jaconi,13.997 torcedores,Wilton Sampaio
+Fluminense FC,1,Athletico Paranaense,11,2,"sáb, 22/04/23",16:00,2,0,Estádio Jornalista Mário Filho,38.598 torcedores,Paulo Cesar Zanovelli
+São Paulo FC,9,América Mineiro,20,2,"sáb, 22/04/23",18:30,3,0,MorumBIS,41.006 torcedores,Wagner do Nascimento Magalhães
+Cuiabá EC,15,RB Bragantino,7,2,"sáb, 22/04/23",18:30,1,1,Arena Pantanal,9.267 torcedores,Caio Max Augusto Vieira
+Cruzeiro EC,12,Grêmio FBPA,13,2,"sáb, 22/04/23",21:00,1,0,Estádio Raimundo Sampaio,21.605 torcedores,Flavio Rodrigues de Souza
+SC Internacional,6,CR Flamengo,8,2,"dom, 23/04/23",11:00,2,1,Estádio Beira-Rio,45.751 torcedores,Ramon Abatti
+CR Vasco da Gama,5,SE Palmeiras,4,2,"dom, 23/04/23",16:00,2,2,Estádio Jornalista Mário Filho,59.867 torcedores,Rafael Rodrigo Klein
+Santos FC,17,Atlético Mineiro,16,2,"dom, 23/04/23",16:00,0,0,Estádio Urbano Caldeira,11.233 torcedores,Braulio da Silva Machado
+Coritiba FC,19,Fortaleza EC,3,2,"dom, 23/04/23",18:30,0,3,Estádio Major Antônio Couto Pereira,24.423 torcedores,Wilton Sampaio
+Goiás EC,10,SC Corinthians,14,2,"dom, 23/04/23",19:00,3,1,Estádio Serra Dourada,10.162 torcedores,Bruno Arleu de Araújo
+EC Bahia,18,Botafogo FR,2,2,"seg, 24/04/23",20:00,1,2,Arena Fonte Nova,27.427 torcedores,Raphael Claus
+Coritiba FC,19,São Paulo FC,8,3,"sáb, 29/04/23",16:30,1,1,Estádio Major Antônio Couto Pereira,25.210 torcedores,Rafael Rodrigo Klein
+Fortaleza EC,2,Fluminense FC,5,3,"sáb, 29/04/23",16:30,4,2,Estádio Governador Plácido Castelo,39.943 torcedores,Raphael Claus
+SE Palmeiras,3,SC Corinthians,17,3,"sáb, 29/04/23",18:30,2,1,Allianz Parque,41.457 torcedores,Wilton Sampaio
+Santos FC,11,América Mineiro,20,3,"sáb, 29/04/23",18:30,3,2,Estádio Urbano Caldeira,11.844 torcedores,Anderson Daronco
+RB Bragantino,12,Cruzeiro EC,6,3,"sáb, 29/04/23",18:30,0,3,Estádio Nabi Abi Chedid,4.829 torcedores,Braulio da Silva Machado
+Atlético Mineiro,10,Athletico Paranaense,15,3,"sáb, 29/04/23",21:00,2,1,Estádio Raimundo Sampaio,15.037 torcedores,Ramon Abatti
+CR Flamengo,13,Botafogo FR,1,3,"dom, 30/04/23",16:00,2,3,Estádio Jornalista Mário Filho,53.138 torcedores,Edina Alves Batista
+SC Internacional,4,Goiás EC,14,3,"dom, 30/04/23",18:30,1,0,Estádio Beira-Rio,29.193 torcedores,Rodrigo Jose Pereira de Lima
+Cuiabá EC,18,Grêmio FBPA,7,3,"dom, 30/04/23",18:30,1,2,Arena Pantanal,21.385 torcedores,Bruno Arleu de Araújo
+CR Vasco da Gama,9,EC Bahia,16,3,"seg, 01/05/23",20:00,0,1,Estádio São Januário,19.223 torcedores,Flavio Rodrigues de Souza
+Cruzeiro EC,3,Santos FC,14,4,"sáb, 06/05/23",16:00,2,1,Estádio Raimundo Sampaio,21.191 torcedores,Bruno Arleu de Araújo
+Fluminense FC,6,CR Vasco da Gama,11,4,"sáb, 06/05/23",21:00,1,1,Estádio Jornalista Mário Filho,39.850 torcedores,Wilton Sampaio
+América Mineiro,20,Cuiabá EC,13,4,"dom, 07/05/23",11:00,1,2,Estádio Raimundo Sampaio,5.228 torcedores,Denis Ribeiro Serafim
+São Paulo FC,5,SC Internacional,8,4,"dom, 07/05/23",16:00,2,0,MorumBIS,46.093 torcedores,Braulio da Silva Machado
+Athletico Paranaense,10,CR Flamengo,17,4,"dom, 07/05/23",16:00,2,1,Ligga Arena,32.949 torcedores,Raphael Claus
+EC Bahia,9,Coritiba FC,19,4,"dom, 07/05/23",16:00,3,1,Arena Fonte Nova,37.936 torcedores,Bruno Mota Correia
+Botafogo FR,1,Atlético Mineiro,16,4,"dom, 07/05/23",18:30,2,0,Estádio Olímpico Nilton Santos,18.218 torcedores,Flavio Rodrigues de Souza
+Goiás EC,18,SE Palmeiras,2,4,"dom, 07/05/23",18:30,0,5,Estádio Serra Dourada,13.789 torcedores,Wagner do Nascimento Magalhães
+Grêmio FBPA,7,RB Bragantino,12,4,"dom, 07/05/23",18:30,3,3,Arena do Grêmio,23.760 torcedores,Paulo Cesar Zanovelli
+SC Corinthians,15,Fortaleza EC,4,4,"seg, 08/05/23",20:00,1,1,Neo Química Arena,36.512 torcedores,Ramon Abatti
+Santos FC,9,EC Bahia,13,5,"qua, 10/05/23",19:00,3,0,Estádio Urbano Caldeira,7.262 torcedores,Wagner do Nascimento Magalhães
+RB Bragantino,15,América Mineiro,20,5,"qua, 10/05/23",19:00,2,2,Estádio Nabi Abi Chedid,2.909 torcedores,Rafael Rodrigo Klein
+SC Internacional,11,Athletico Paranaense,4,5,"qua, 10/05/23",19:00,0,2,Estádio Beira-Rio,13.537 torcedores,Bruno Arleu de Araújo
+Cuiabá EC,17,Atlético Mineiro,8,5,"qua, 10/05/23",20:00,0,4,Arena Pantanal,12.029 torcedores,Wilton Sampaio
+CR Flamengo,12,Goiás EC,18,5,"qua, 10/05/23",20:00,2,0,Estádio Jornalista Mário Filho,44.948 torcedores,Savio Pereira Sampaio
+SE Palmeiras,2,Grêmio FBPA,10,5,"qua, 10/05/23",21:30,4,1,Allianz Parque,37.532 torcedores,Braulio da Silva Machado
+Cruzeiro EC,5,Fluminense FC,3,5,"qua, 10/05/23",21:30,0,2,Estádio Governador Magalhães Pinto,51.846 torcedores,Flavio Rodrigues de Souza
+Coritiba FC,19,CR Vasco da Gama,14,5,"qui, 11/05/23",19:00,1,1,Estádio Major Antônio Couto Pereira,20.880 torcedores,Ramon Abatti
+Botafogo FR,1,SC Corinthians,16,5,"qui, 11/05/23",19:30,3,0,Estádio Olímpico Nilton Santos,22.388 torcedores,Anderson Daronco
+Fortaleza EC,6,São Paulo FC,7,5,"qui, 11/05/23",20:00,0,0,Estádio Governador Plácido Castelo,37.775 torcedores,Paulo Cesar Zanovelli
+EC Bahia,14,CR Flamengo,9,6,"sáb, 13/05/23",16:00,2,3,Arena Fonte Nova,48.502 torcedores,Paulo Cesar Zanovelli
+Fluminense FC,3,Cuiabá EC,18,6,"sáb, 13/05/23",18:30,2,0,Estádio Jornalista Mário Filho,39.040 torcedores,Edina Alves Batista
+SE Palmeiras,2,RB Bragantino,13,6,"sáb, 13/05/23",18:30,1,1,Allianz Parque,39.488 torcedores,Savio Pereira Sampaio
+Atlético Mineiro,6,SC Internacional,12,6,"sáb, 13/05/23",21:00,2,0,Estádio Governador Magalhães Pinto,36.080 torcedores,Raphael Claus
+CR Vasco da Gama,16,Santos FC,7,6,"dom, 14/05/23",16:00,0,1,Estádio São Januário,19.108 torcedores,Rodrigo Jose Pereira de Lima
+SC Corinthians,17,São Paulo FC,10,6,"dom, 14/05/23",16:00,1,1,Neo Química Arena,41.434 torcedores,Bruno Arleu de Araújo
+Grêmio FBPA,11,Fortaleza EC,8,6,"dom, 14/05/23",16:00,0,0,Arena do Grêmio,19.598 torcedores,Bruno Mota Correia
+Goiás EC,15,Botafogo FR,1,6,"dom, 14/05/23",18:30,2,1,Estádio Serra Dourada,9.092 torcedores,Rafael Rodrigo Klein
+Athletico Paranaense,5,Coritiba FC,19,6,"dom, 14/05/23",18:30,3,2,Ligga Arena,31.252 torcedores,Flavio Rodrigues de Souza
+América Mineiro,20,Cruzeiro EC,4,6,"dom, 14/05/23",18:30,0,4,Estádio Raimundo Sampaio,4.295 torcedores,Wilton Sampaio
+EC Bahia,13,Goiás EC,16,7,"sáb, 20/05/23",16:00,1,1,Arena Fonte Nova,32.519 torcedores,Denis Ribeiro Serafim
+Botafogo FR,1,Fluminense FC,3,7,"sáb, 20/05/23",18:30,1,0,Estádio Olímpico Nilton Santos,24.732 torcedores,Braulio da Silva Machado
+São Paulo FC,8,CR Vasco da Gama,17,7,"sáb, 20/05/23",18:30,4,2,MorumBIS,57.399 torcedores,Leandro Pedro Vuaden
+RB Bragantino,12,Athletico Paranaense,7,7,"sáb, 20/05/23",18:30,2,0,Estádio Nabi Abi Chedid,3.769 torcedores,Felipe Fernandes
+Coritiba FC,20,Atlético Mineiro,4,7,"sáb, 20/05/23",18:30,1,2,Estádio Major Antônio Couto Pereira,20.047 torcedores,Rodrigo Jose Pereira de Lima
+América Mineiro,19,Fortaleza EC,11,7,"sáb, 20/05/23",18:30,2,1,Estádio Raimundo Sampaio,2.488 torcedores,Luiz Flávio de Oliveira (SP)
+Santos FC,9,SE Palmeiras,2,7,"sáb, 20/05/23",21:00,0,0,Estádio Urbano Caldeira,12.641 torcedores,Raphael Claus
+CR Flamengo,6,SC Corinthians,18,7,"dom, 21/05/23",16:00,1,0,Estádio Jornalista Mário Filho,64.871 torcedores,Rafael Rodrigo Klein
+Grêmio FBPA,10,SC Internacional,15,7,"dom, 21/05/23",18:30,3,1,Arena do Grêmio,39.438 torcedores,Flavio Rodrigues de Souza
+Cruzeiro EC,5,Cuiabá EC,14,7,"seg, 22/05/23",20:00,0,1,Estádio Joaquim Henrique Nogueira,15.722 torcedores,Savio Pereira Sampaio
+Athletico Paranaense,11,Grêmio FBPA,5,8,"sáb, 27/05/23",16:00,1,2,Ligga Arena,25.966 torcedores,Savio Pereira Sampaio
+Fortaleza EC,9,CR Vasco da Gama,18,8,"sáb, 27/05/23",16:00,2,0,Estádio Governador Plácido Castelo,37.625 torcedores,Edina Alves Batista
+CR Flamengo,7,Cruzeiro EC,6,8,"sáb, 27/05/23",18:30,1,1,Estádio Jornalista Mário Filho,65.270 torcedores,Luiz Flávio de Oliveira (SP)
+Cuiabá EC,15,Coritiba FC,20,8,"sáb, 27/05/23",18:30,1,1,Arena Pantanal,8.660 torcedores,Denis Ribeiro Serafim
+São Paulo FC,3,Goiás EC,17,8,"sáb, 27/05/23",21:00,2,1,MorumBIS,45.429 torcedores,Rafael Rodrigo Klein
+SC Corinthians,14,Fluminense FC,8,8,"dom, 28/05/23",16:00,2,0,Neo Química Arena,34.624 torcedores,Leandro Pedro Vuaden
+SC Internacional,13,EC Bahia,16,8,"dom, 28/05/23",16:00,2,0,Estádio Beira-Rio,19.037 torcedores,Wagner do Nascimento Magalhães
+Atlético Mineiro,4,SE Palmeiras,2,8,"dom, 28/05/23",18:30,1,1,Estádio Governador Magalhães Pinto,53.236 torcedores,Braulio da Silva Machado
+Botafogo FR,1,América Mineiro,19,8,"dom, 28/05/23",19:00,2,0,Estádio Olímpico Nilton Santos,23.708 torcedores,Raphael Claus
+RB Bragantino,10,Santos FC,12,8,"seg, 29/05/23",18:30,2,0,Estádio Nabi Abi Chedid,5.988 torcedores,Anderson Daronco
+Fortaleza EC,9,EC Bahia,15,9,"sáb, 03/06/23",16:00,0,0,Estádio Governador Plácido Castelo,38.338 torcedores,João Vitor Gobi
+Cruzeiro EC,10,Atlético Mineiro,3,9,"sáb, 03/06/23",18:30,0,1,Estádio Municipal Parque do Sabiá,34.344 torcedores,Savio Pereira Sampaio
+Athletico Paranaense,7,Botafogo FR,1,9,"sáb, 03/06/23",18:30,1,0,Ligga Arena,18.684 torcedores,Vinicius Gonçalves Dias Araujo
+América Mineiro,18,SC Corinthians,16,9,"sáb, 03/06/23",18:30,2,0,Estádio Raimundo Sampaio,6.701 torcedores,Anderson Daronco
+Santos FC,12,SC Internacional,13,9,"sáb, 03/06/23",21:00,1,1,Estádio Urbano Caldeira,9.600 torcedores,Paulo Cesar Zanovelli
+Fluminense FC,6,RB Bragantino,11,9,"dom, 04/06/23",16:00,2,1,Estádio Jornalista Mário Filho,27.228 torcedores,Rodrigo Jose Pereira de Lima
+Grêmio FBPA,4,São Paulo FC,8,9,"dom, 04/06/23",16:00,2,1,Arena do Grêmio,42.207 torcedores,Wilton Sampaio
+SE Palmeiras,2,Coritiba FC,20,9,"dom, 04/06/23",18:30,3,1,Allianz Parque,33.570 torcedores,Felipe Fernandes
+Goiás EC,17,Cuiabá EC,14,9,"dom, 04/06/23",18:30,0,1,Estádio Serra Dourada,6.987 torcedores,Marcelo de Lima Henrique  (RJ)
+CR Vasco da Gama,19,CR Flamengo,5,9,"seg, 05/06/23",20:00,1,4,Estádio Jornalista Mário Filho,46.423 torcedores,Braulio da Silva Machado
+Coritiba FC,20,Santos FC,13,10,"sáb, 10/06/23",16:00,0,0,Estádio Major Antônio Couto Pereira,25.512 torcedores,Bruno Mota Correia
+SC Corinthians,16,Cuiabá EC,14,10,"sáb, 10/06/23",18:30,1,1,Neo Química Arena,40.512 torcedores,André Luiz Skettino Policarpo Bento
+Atlético Mineiro,4,RB Bragantino,12,10,"sáb, 10/06/23",18:30,1,1,Estádio Governador Magalhães Pinto,28.786 torcedores,Rafael Rodrigo Klein
+EC Bahia,15,Cruzeiro EC,9,10,"sáb, 10/06/23",18:30,2,2,Arena Fonte Nova,34.019 torcedores,Rodrigo Jose Pereira de Lima
+Botafogo FR,1,Fortaleza EC,11,10,"sáb, 10/06/23",21:00,2,0,Estádio Olímpico Nilton Santos,19.291 torcedores,Wilton Sampaio
+América Mineiro,18,Athletico Paranaense,7,10,"dom, 11/06/23",11:00,2,2,Estádio Governador Magalhães Pinto,5.902 torcedores,João Vitor Gobi
+São Paulo FC,8,SE Palmeiras,2,10,"dom, 11/06/23",16:00,0,2,MorumBIS,56.871 torcedores,Raphael Claus
+SC Internacional,10,CR Vasco da Gama,19,10,"dom, 11/06/23",16:00,2,1,Estádio Beira-Rio,18.044 torcedores,Edina Alves Batista
+CR Flamengo,3,Grêmio FBPA,6,10,"dom, 11/06/23",18:30,3,0,Estádio Jornalista Mário Filho,62.967 torcedores,Savio Pereira Sampaio
+Goiás EC,17,Fluminense FC,5,10,"dom, 11/06/23",18:30,2,2,Estádio Serra Dourada,10.260 torcedores,Leandro Pedro Vuaden
+São Paulo FC,6,Athletico Paranaense,11,11,"qua, 21/06/23",19:00,2,1,MorumBIS,22.882 torcedores,Savio Pereira Sampaio
+Cruzeiro EC,12,Fortaleza EC,10,11,"qua, 21/06/23",19:00,0,1,Estádio Governador Magalhães Pinto,28.494 torcedores,Bruno Arleu de Araújo
+Santos FC,13,SC Corinthians,15,11,"qua, 21/06/23",20:00,0,2,Estádio Urbano Caldeira,12.499 torcedores,Leandro Pedro Vuaden
+Fluminense FC,7,Atlético Mineiro,5,11,"qua, 21/06/23",21:30,1,1,Estádio General Sylvio Raulino de Oliveira,7.788 torcedores,Ramon Abatti
+EC Bahia,14,SE Palmeiras,2,11,"qua, 21/06/23",21:30,1,0,Arena Fonte Nova,31.013 torcedores,Wilton Sampaio
+Grêmio FBPA,3,América Mineiro,18,11,"qui, 22/06/23",19:00,3,1,Arena do Grêmio,15.864 torcedores,Edina Alves Batista
+CR Vasco da Gama,19,Goiás EC,17,11,"qui, 22/06/23",20:00,0,1,Estádio São Januário,17.647 torcedores,Jean Pierre Goncalves Lima
+Coritiba FC,20,SC Internacional,8,11,"qui, 22/06/23",20:00,0,1,Estádio Major Antônio Couto Pereira,25.983 torcedores,André Luiz Skettino Policarpo Bento
+Cuiabá EC,16,Botafogo FR,1,11,"qui, 22/06/23",20:00,0,1,Arena Pantanal,13.981 torcedores,Flavio Rodrigues de Souza
+RB Bragantino,9,CR Flamengo,4,11,"qui, 22/06/23",21:30,4,0,Estádio Nabi Abi Chedid,10.103 torcedores,Anderson Daronco
+Athletico Paranaense,9,SC Corinthians,15,12,"sáb, 24/06/23",16:00,1,0,Ligga Arena,30.144 torcedores,Wagner do Nascimento Magalhães
+Fluminense FC,5,EC Bahia,14,12,"sáb, 24/06/23",18:30,2,1,Estádio Jornalista Mário Filho,24.507 torcedores,Savio Pereira Sampaio
+Fortaleza EC,8,Atlético Mineiro,10,12,"sáb, 24/06/23",18:30,2,1,Estádio Governador Plácido Castelo,27.109 torcedores,Leandro Pedro Vuaden
+Cruzeiro EC,12,São Paulo FC,11,12,"sáb, 24/06/23",21:00,1,0,Estádio Governador Magalhães Pinto,17.478 torcedores,Ramon Abatti
+SE Palmeiras,4,Botafogo FR,1,12,"dom, 25/06/23",16:00,0,1,Allianz Parque,38.877 torcedores,Anderson Daronco
+Grêmio FBPA,2,Coritiba FC,20,12,"dom, 25/06/23",16:00,5,1,Arena do Grêmio,37.048 torcedores,João Vitor Gobi
+Santos FC,13,CR Flamengo,3,12,"dom, 25/06/23",18:30,2,3,Estádio Urbano Caldeira,Árbitro:,Wilton Sampaio
+RB Bragantino,7,Goiás EC,17,12,"dom, 25/06/23",18:30,2,0,Estádio Nabi Abi Chedid,3.798 torcedores,Bruno Mota Correia
+América Mineiro,19,SC Internacional,6,12,"dom, 25/06/23",18:30,1,2,Estádio Raimundo Sampaio,2.249 torcedores,Flavio Rodrigues de Souza
+CR Vasco da Gama,18,Cuiabá EC,16,12,"seg, 26/06/23",21:00,1,0,Estádio Luso Brasileiro,Árbitro:,Rafael Rodrigo Klein
+São Paulo FC,7,Fluminense FC,6,13,"sáb, 01/07/23",16:00,1,0,MorumBIS,49.153 torcedores,Anderson Daronco
+CR Flamengo,3,Fortaleza EC,11,13,"sáb, 01/07/23",18:30,2,0,Estádio Jornalista Mário Filho,64.853 torcedores,Savio Pereira Sampaio
+EC Bahia,15,Grêmio FBPA,2,13,"sáb, 01/07/23",18:30,1,2,Arena Fonte Nova,34.090 torcedores,Marcelo de Lima Henrique  (RJ)
+SC Internacional,8,Cruzeiro EC,12,13,"sáb, 01/07/23",21:00,0,0,Estádio Beira-Rio,23.923 torcedores,Wagner do Nascimento Magalhães
+SC Corinthians,16,RB Bragantino,5,13,"dom, 02/07/23",11:00,0,1,Neo Química Arena,42.404 torcedores,Edina Alves Batista
+Botafogo FR,1,CR Vasco da Gama,18,13,"dom, 02/07/23",16:00,2,0,Estádio Olímpico Nilton Santos,38.798 torcedores,Raphael Claus
+Atlético Mineiro,10,América Mineiro,19,13,"dom, 02/07/23",16:00,2,2,Estádio Governador Magalhães Pinto,34.507 torcedores,Wilton Sampaio
+Athletico Paranaense,9,SE Palmeiras,4,13,"dom, 02/07/23",16:00,2,2,Ligga Arena,33.118 torcedores,Jean Pierre Goncalves Lima
+Cuiabá EC,13,Santos FC,14,13,"dom, 02/07/23",18:00,3,0,Arena Pantanal,13.477 torcedores,Bruno Mota Correia
+Goiás EC,17,Coritiba FC,20,13,"seg, 03/07/23",20:00,1,2,Estádio Serra Dourada,10.394 torcedores,Denis Ribeiro Serafim
+CR Vasco da Gama,19,Cruzeiro EC,9,14,"sáb, 08/07/23",16:00,0,1,Estádio São Januário,Árbitro:,Savio Pereira Sampaio
+Cuiabá EC,14,EC Bahia,16,14,"sáb, 08/07/23",16:00,1,1,Arena Pantanal,10.149 torcedores,Wagner do Nascimento Magalhães
+Atlético Mineiro,12,SC Corinthians,15,14,"sáb, 08/07/23",18:30,0,1,Estádio Governador Magalhães Pinto,21.086 torcedores,Rodrigo Jose Pereira de Lima
+Coritiba FC,18,América Mineiro,20,14,"sáb, 08/07/23",18:30,3,1,Estádio Major Antônio Couto Pereira,24.653 torcedores,Rafael Rodrigo Klein
+SE Palmeiras,5,CR Flamengo,2,14,"sáb, 08/07/23",21:00,1,1,Allianz Parque,40.229 torcedores,Ramon Abatti
+Santos FC,13,Goiás EC,17,14,"dom, 09/07/23",11:00,4,3,Estádio Urbano Caldeira,Árbitro:,Bruno Arleu de Araújo
+Fluminense FC,4,SC Internacional,10,14,"dom, 09/07/23",16:00,2,0,Estádio Jornalista Mário Filho,34.166 torcedores,Luiz Flávio de Oliveira (SP)
+RB Bragantino,6,São Paulo FC,8,14,"dom, 09/07/23",16:00,0,0,Estádio Nabi Abi Chedid,9.411 torcedores,Raphael Claus
+Grêmio FBPA,3,Botafogo FR,1,14,"dom, 09/07/23",18:30,0,2,Arena do Grêmio,47.029 torcedores,Flavio Rodrigues de Souza
+Fortaleza EC,7,Athletico Paranaense,11,14,"dom, 09/07/23",18:30,1,0,Estádio Governador Plácido Castelo,36.399 torcedores,André Luiz Skettino Policarpo Bento
+Botafogo FR,1,RB Bragantino,7,15,"sáb, 15/07/23",21:00,2,0,Estádio Olímpico Nilton Santos,37.036 torcedores,Anderson Daronco
+Cruzeiro EC,10,Coritiba FC,19,15,"dom, 16/07/23",11:00,0,0,Estádio Governador Magalhães Pinto,22.123 torcedores,Leandro Pedro Vuaden
+Fluminense FC,5,CR Flamengo,2,15,"dom, 16/07/23",16:00,0,0,Estádio Jornalista Mário Filho,62.354 torcedores,Savio Pereira Sampaio
+São Paulo FC,4,Santos FC,15,15,"dom, 16/07/23",16:00,4,1,MorumBIS,58.127 torcedores,Braulio da Silva Machado
+Fortaleza EC,9,Cuiabá EC,13,15,"dom, 16/07/23",16:00,0,1,Estádio Governador Plácido Castelo,43.048 torcedores,Yuri Elino Ferreira da Cruz
+SC Internacional,11,SE Palmeiras,6,15,"dom, 16/07/23",18:30,0,0,Estádio Beira-Rio,41.823 torcedores,Rodrigo Jose Pereira de Lima
+Athletico Paranaense,8,EC Bahia,16,15,"dom, 16/07/23",18:30,2,0,Ligga Arena,17.091 torcedores,Rafael Rodrigo Klein
+Goiás EC,18,Atlético Mineiro,12,15,"seg, 17/07/23",20:00,0,0,Estádio Serra Dourada,12.303 torcedores,Raphael Claus
+SC Corinthians,14,Grêmio FBPA,3,15,"seg, 18/09/23",21:00,4,4,Neo Química Arena,36.076 torcedores,Wilton Sampaio
+América Mineiro,20,CR Vasco da Gama,17,15,"seg, 25/09/23",20:00,0,1,Estádio Raimundo Sampaio,8.498 torcedores,Ramon Abatti
+CR Flamengo,3,América Mineiro,20,16,"sáb, 22/07/23",16:00,1,1,Estádio Jornalista Mário Filho,60.402 torcedores,Rodrigo Jose Pereira de Lima
+SE Palmeiras,4,Fortaleza EC,9,16,"sáb, 22/07/23",16:00,3,1,Allianz Parque,39.699 torcedores,Rafael Rodrigo Klein
+EC Bahia,17,SC Corinthians,14,16,"sáb, 22/07/23",18:30,0,0,Arena Fonte Nova,43.716 torcedores,André Luiz Skettino Policarpo Bento
+Cuiabá EC,12,São Paulo FC,6,16,"sáb, 22/07/23",18:30,2,1,Arena Pantanal,34.072 torcedores,Bruno Mota Correia
+Grêmio FBPA,2,Atlético Mineiro,13,16,"sáb, 22/07/23",21:00,1,0,Arena do Grêmio,37.085 torcedores,Luiz Flávio de Oliveira (SP)
+Santos FC,15,Botafogo FR,1,16,"dom, 23/07/23",16:00,2,2,Estádio Urbano Caldeira,Árbitro:,Ramon Abatti
+RB Bragantino,8,SC Internacional,10,16,"dom, 23/07/23",16:00,0,0,Estádio Nabi Abi Chedid,6.446 torcedores,Maguielson Lima Barbosa
+Cruzeiro EC,11,Goiás EC,16,16,"dom, 23/07/23",16:00,0,1,Estádio Raimundo Sampaio,21.688 torcedores,Caio Max Augusto Vieira
+CR Vasco da Gama,19,Athletico Paranaense,5,16,"dom, 23/07/23",18:30,0,2,Estádio São Januário,Árbitro:,Paulo Cesar Zanovelli
+Coritiba FC,18,Fluminense FC,7,16,"seg, 24/07/23",19:00,2,0,Estádio Major Antônio Couto Pereira,32.872 torcedores,Flavio Rodrigues de Souza
+Fluminense FC,5,Santos FC,15,17,"sáb, 29/07/23",16:00,1,0,Estádio Jornalista Mário Filho,34.211 torcedores,Rodrigo Jose Pereira de Lima
+SC Internacional,12,Cuiabá EC,9,17,"sáb, 29/07/23",16:00,1,2,Estádio Beira-Rio,32.020 torcedores,Matheus Delgado Candançan
+Athletico Paranaense,7,Cruzeiro EC,10,17,"sáb, 29/07/23",16:00,3,3,Ligga Arena,22.730 torcedores,Yuri Elino Ferreira da Cruz
+SC Corinthians,14,CR Vasco da Gama,19,17,"sáb, 29/07/23",18:30,3,1,Neo Química Arena,Árbitro:,Leandro Pedro Vuaden
+Fortaleza EC,11,RB Bragantino,6,17,"sáb, 29/07/23",18:30,0,3,Estádio Governador Plácido Castelo,26.124 torcedores,André Luiz Skettino Policarpo Bento
+Atlético Mineiro,13,CR Flamengo,2,17,"sáb, 29/07/23",21:00,1,2,Estádio Raimundo Sampaio,22.441 torcedores,Flavio Rodrigues de Souza
+São Paulo FC,8,EC Bahia,17,17,"dom, 30/07/23",11:00,0,0,MorumBIS,56.078 torcedores,Ramon Abatti
+Botafogo FR,1,Coritiba FC,18,17,"dom, 30/07/23",16:00,4,1,Estádio Olímpico Nilton Santos,43.071 torcedores,João Vitor Gobi
+América Mineiro,20,SE Palmeiras,4,17,"dom, 30/07/23",16:00,1,4,Estádio Raimundo Sampaio,5.928 torcedores,Braulio da Silva Machado
+Goiás EC,16,Grêmio FBPA,3,17,"dom, 30/07/23",18:30,1,1,Estádio Serra Dourada,12.311 torcedores,Paulo Cesar Zanovelli
+Santos FC,17,Athletico Paranaense,7,18,"sáb, 05/08/23",16:00,1,1,Estádio Urbano Caldeira,Árbitro:,André Luiz Skettino Policarpo Bento
+Goiás EC,15,Fortaleza EC,13,18,"sáb, 05/08/23",18:30,1,0,Estádio Serra Dourada,8.384 torcedores,Leandro Pedro Vuaden
+SC Internacional,12,SC Corinthians,14,18,"sáb, 05/08/23",18:30,2,2,Estádio Beira-Rio,22.509 torcedores,Wagner do Nascimento Magalhães
+Fluminense FC,3,SE Palmeiras,5,18,"sáb, 05/08/23",21:00,2,1,Estádio Jornalista Mário Filho,31.037 torcedores,Ramon Abatti
+CR Vasco da Gama,18,Grêmio FBPA,4,18,"dom, 06/08/23",16:00,1,0,Estádio São Januário,Árbitro:,Luiz Flávio de Oliveira (SP)
+São Paulo FC,9,Atlético Mineiro,10,18,"dom, 06/08/23",16:00,0,2,MorumBIS,53.460 torcedores,Rodrigo Jose Pereira de Lima
+Cruzeiro EC,11,Botafogo FR,1,18,"dom, 06/08/23",18:30,0,0,Estádio Governador Magalhães Pinto,44.759 torcedores,Raphael Claus
+Coritiba FC,19,RB Bragantino,6,18,"dom, 06/08/23",18:30,0,1,Estádio Major Antônio Couto Pereira,34.010 torcedores,Yuri Elino Ferreira da Cruz
+EC Bahia,16,América Mineiro,20,18,"dom, 06/08/23",18:30,3,1,Arena Fonte Nova,34.313 torcedores,Matheus Delgado Candançan
+Cuiabá EC,8,CR Flamengo,2,18,"dom, 06/08/23",20:00,3,0,Arena Pantanal,33.091 torcedores,Anderson Daronco
+Botafogo FR,1,SC Internacional,14,19,"sáb, 12/08/23",21:00,3,1,Estádio Olímpico Nilton Santos,39.598 torcedores,Flavio Rodrigues de Souza
+Atlético Mineiro,10,EC Bahia,16,19,"dom, 13/08/23",11:00,1,0,Estádio Governador Magalhães Pinto,29.847 torcedores,Savio Pereira Sampaio
+SC Corinthians,13,Coritiba FC,19,19,"dom, 13/08/23",16:00,3,1,Neo Química Arena,42.171 torcedores,Ramon Abatti
+Grêmio FBPA,2,Fluminense FC,7,19,"dom, 13/08/23",16:00,2,1,Arena do Grêmio,38.712 torcedores,Rodrigo Jose Pereira de Lima
+América Mineiro,20,Goiás EC,15,19,"dom, 13/08/23",16:00,0,1,Estádio Raimundo Sampaio,2.888 torcedores,Luiz Flávio de Oliveira (SP)
+CR Flamengo,4,São Paulo FC,9,19,"dom, 13/08/23",18:30,1,1,Estádio Jornalista Mário Filho,62.018 torcedores,Rafael Rodrigo Klein
+Fortaleza EC,11,Santos FC,17,19,"dom, 13/08/23",18:30,4,0,Estádio Governador Plácido Castelo,32.301 torcedores,Bruno Mota Correia
+SE Palmeiras,3,Cruzeiro EC,12,19,"seg, 14/08/23",19:00,1,0,Allianz Parque,38.555 torcedores,Wagner do Nascimento Magalhães
+RB Bragantino,5,CR Vasco da Gama,18,19,"seg, 14/08/23",21:00,1,1,Estádio Nabi Abi Chedid,5.553 torcedores,Anderson Daronco
+Athletico Paranaense,6,Cuiabá EC,8,19,"ter, 15/08/23",20:00,2,0,Ligga Arena,18.444 torcedores,Arthur Gomes Rabelo
+São Paulo FC,10,Botafogo FR,1,20,"sáb, 19/08/23",16:00,0,0,MorumBIS,51.946 torcedores,Ramon Abatti
+SC Internacional,14,Fortaleza EC,8,20,"sáb, 19/08/23",16:00,0,1,Estádio Beira-Rio,21.134 torcedores,Yuri Elino Ferreira da Cruz
+Fluminense FC,4,América Mineiro,20,20,"sáb, 19/08/23",18:30,3,1,Estádio Jornalista Mário Filho,35.562 torcedores,Flavio Rodrigues de Souza
+Cuiabá EC,9,SE Palmeiras,2,20,"sáb, 19/08/23",18:30,0,2,Arena Pantanal,19.115 torcedores,André Luiz Skettino Policarpo Bento
+Cruzeiro EC,12,SC Corinthians,13,20,"sáb, 19/08/23",21:00,1,1,Estádio Governador Magalhães Pinto,36.202 torcedores,Rafael Rodrigo Klein
+CR Vasco da Gama,18,Atlético Mineiro,11,20,"dom, 20/08/23",11:00,1,0,Estádio Jornalista Mário Filho,53.540 torcedores,Braulio da Silva Machado
+Santos FC,17,Grêmio FBPA,5,20,"dom, 20/08/23",16:00,2,1,Estádio Urbano Caldeira,12.933 torcedores,Paulo Cesar Zanovelli
+Coritiba FC,19,CR Flamengo,3,20,"dom, 20/08/23",16:00,2,3,Estádio Major Antônio Couto Pereira,31.851 torcedores,Raphael Claus
+EC Bahia,16,RB Bragantino,7,20,"dom, 20/08/23",16:00,4,0,Arena Fonte Nova,38.452 torcedores,Arthur Gomes Rabelo
+Goiás EC,15,Athletico Paranaense,6,20,"seg, 21/08/23",20:00,1,1,Estádio Serra Dourada,8.325 torcedores,Marcelo de Lima Henrique  (RJ)
+CR Flamengo,4,SC Internacional,14,21,"sáb, 26/08/23",18:30,0,0,Estádio Jornalista Mário Filho,58.892 torcedores,Edina Alves Batista
+SC Corinthians,12,Goiás EC,15,21,"sáb, 26/08/23",21:00,1,1,Neo Química Arena,37.316 torcedores,Paulo Cesar Zanovelli
+RB Bragantino,6,Cuiabá EC,10,21,"dom, 27/08/23",11:00,2,0,Estádio Nabi Abi Chedid,3.683 torcedores,Bruno Mota Correia
+Botafogo FR,1,EC Bahia,16,21,"dom, 27/08/23",16:00,3,0,Estádio Olímpico Nilton Santos,39.610 torcedores,Flavio Rodrigues de Souza
+Atlético Mineiro,9,Santos FC,17,21,"dom, 27/08/23",16:00,2,0,Arena MRV,29.782 torcedores,Rafael Rodrigo Klein
+América Mineiro,20,São Paulo FC,11,21,"dom, 27/08/23",16:00,2,1,Estádio Raimundo Sampaio,5.105 torcedores,Rodrigo Jose Pereira de Lima
+SE Palmeiras,2,CR Vasco da Gama,18,21,"dom, 27/08/23",18:30,1,0,Allianz Parque,40.292 torcedores,Wilton Sampaio
+Athletico Paranaense,7,Fluminense FC,5,21,"dom, 27/08/23",18:30,2,2,Ligga Arena,23.630 torcedores,Raphael Claus
+Fortaleza EC,8,Coritiba FC,19,21,"dom, 27/08/23",18:30,3,1,Estádio Municipal Presidente Getúlio Vargas,12.467 torcedores,Matheus Delgado Candançan
+Grêmio FBPA,3,Cruzeiro EC,13,21,"dom, 27/08/23",19:00,3,0,Arena do Grêmio,24.938 torcedores,Marcelo de Lima Henrique  (RJ)
+Goiás EC,15,SC Internacional,14,22,"sáb, 02/09/23",16:00,0,0,Estádio Serra Dourada,11.038 torcedores,Braulio da Silva Machado
+Athletico Paranaense,7,Atlético Mineiro,9,22,"sáb, 02/09/23",16:00,1,1,Ligga Arena,18.009 torcedores,Flavio Rodrigues de Souza
+Botafogo FR,1,CR Flamengo,4,22,"sáb, 02/09/23",21:00,1,2,Estádio Olímpico Nilton Santos,40.769 torcedores,Raphael Claus
+Grêmio FBPA,3,Cuiabá EC,11,22,"dom, 03/09/23",11:00,2,0,Arena do Grêmio,39.339 torcedores,Yuri Elino Ferreira da Cruz
+Fluminense FC,5,Fortaleza EC,8,22,"dom, 03/09/23",16:00,1,0,Estádio General Sylvio Raulino de Oliveira,10.035 torcedores,André Luiz Skettino Policarpo Bento
+SC Corinthians,12,SE Palmeiras,2,22,"dom, 03/09/23",16:00,0,0,Neo Química Arena,44.371 torcedores,Anderson Daronco
+Cruzeiro EC,13,RB Bragantino,6,22,"dom, 03/09/23",18:30,0,0,Estádio Governador Magalhães Pinto,29.417 torcedores,Wagner do Nascimento Magalhães
+EC Bahia,16,CR Vasco da Gama,18,22,"dom, 03/09/23",18:30,1,1,Arena Fonte Nova,46.705 torcedores,Ramon Abatti
+América Mineiro,19,Santos FC,17,22,"dom, 03/09/23",18:30,2,0,Estádio Raimundo Sampaio,3.654 torcedores,Leandro Pedro Vuaden
+São Paulo FC,10,Coritiba FC,20,22,"qua, 27/09/23",19:00,2,1,MorumBIS,31.720 torcedores,Savio Pereira Sampaio
+CR Flamengo,4,Athletico Paranaense,7,23,"qua, 13/09/23",21:30,0,3,Estádio Estadual Kléber José de Andrade,20.670 torcedores,Rafael Rodrigo Klein
+SC Internacional,13,São Paulo FC,10,23,"qua, 13/09/23",21:30,2,1,Estádio Beira-Rio,20.763 torcedores,Paulo Cesar Zanovelli
+Santos FC,18,Cruzeiro EC,12,23,"qui, 14/09/23",19:00,0,3,Estádio Urbano Caldeira,12.244 torcedores,Braulio da Silva Machado
+Fortaleza EC,8,SC Corinthians,14,23,"qui, 14/09/23",19:00,2,1,Estádio Municipal Presidente Getúlio Vargas,32.690 torcedores,Rodrigo Jose Pereira de Lima
+Coritiba FC,20,EC Bahia,15,23,"qui, 14/09/23",20:00,2,4,Estádio Major Antônio Couto Pereira,22.961 torcedores,Wagner do Nascimento Magalhães
+RB Bragantino,5,Grêmio FBPA,3,23,"qui, 14/09/23",21:30,2,0,Estádio Nabi Abi Chedid,5.088 torcedores,André Luiz Skettino Policarpo Bento
+Cuiabá EC,11,América Mineiro,19,23,"sex, 15/09/23",20:00,2,2,Arena Pantanal,8.509 torcedores,Bruno Arleu de Araújo
+SE Palmeiras,2,Goiás EC,16,23,"sex, 15/09/23",21:30,1,0,Allianz Parque,38.146 torcedores,Savio Pereira Sampaio
+CR Vasco da Gama,17,Fluminense FC,6,23,"sáb, 16/09/23",16:00,4,2,Estádio Olímpico Nilton Santos,35.850 torcedores,Raphael Claus
+Atlético Mineiro,9,Botafogo FR,1,23,"sáb, 16/09/23",21:00,1,0,Arena MRV,31.729 torcedores,Ramon Abatti
+EC Bahia,17,Santos FC,18,24,"seg, 18/09/23",20:00,1,2,Arena Fonte Nova,41.431 torcedores,Ramon Abatti
+América Mineiro,19,RB Bragantino,4,24,"ter, 19/09/23",21:30,0,2,Estádio Raimundo Sampaio,2.247 torcedores,Marcelo de Lima Henrique  (RJ)
+Goiás EC,16,CR Flamengo,7,24,"qua, 20/09/23",19:00,0,0,Estádio Serra Dourada,13.799 torcedores,Raphael Claus
+Fluminense FC,5,Cruzeiro EC,13,24,"qua, 20/09/23",21:30,1,0,Estádio Jornalista Mário Filho,28.985 torcedores,Matheus Delgado Candançan
+São Paulo FC,10,Fortaleza EC,8,24,"qua, 20/09/23",21:30,1,2,MorumBIS,24.777 torcedores,Yuri Elino Ferreira da Cruz
+CR Vasco da Gama,15,Coritiba FC,20,24,"qui, 21/09/23",19:00,5,1,Estádio São Januário,20.321 torcedores,Flavio Rodrigues de Souza
+Athletico Paranaense,6,SC Internacional,14,24,"qui, 21/09/23",19:30,2,1,Ligga Arena,25.967 torcedores,Wagner do Nascimento Magalhães
+Grêmio FBPA,3,SE Palmeiras,2,24,"qui, 21/09/23",21:30,1,0,Arena do Grêmio,29.057 torcedores,Bruno Arleu de Araújo
+SC Corinthians,11,Botafogo FR,1,24,"sex, 22/09/23",20:00,1,0,Neo Química Arena,37.543 torcedores,Paulo Cesar Zanovelli
+Atlético Mineiro,9,Cuiabá EC,12,24,"sáb, 23/09/23",21:00,1,0,Arena MRV,36.104 torcedores,Rodrigo Jose Pereira de Lima
+CR Flamengo,5,EC Bahia,18,25,"sáb, 30/09/23",16:00,1,0,Estádio Jornalista Mário Filho,46.472 torcedores,Savio Pereira Sampaio
+Fortaleza EC,9,Grêmio FBPA,3,25,"sáb, 30/09/23",16:00,1,1,Estádio Governador Plácido Castelo,23.634 torcedores,Raphael Claus
+São Paulo FC,10,SC Corinthians,13,25,"sáb, 30/09/23",18:30,2,1,MorumBIS,56.735 torcedores,Flavio Rodrigues de Souza
+Cuiabá EC,11,Fluminense FC,6,25,"sáb, 30/09/23",18:30,3,0,Arena Pantanal,8.358 torcedores,Paulo Cesar Zanovelli
+SC Internacional,14,Atlético Mineiro,7,25,"sáb, 30/09/23",21:00,0,2,Estádio Beira-Rio,23.937 torcedores,Ramon Abatti
+Santos FC,15,CR Vasco da Gama,17,25,"dom, 01/10/23",16:00,4,1,Estádio Urbano Caldeira,8.342 torcedores,Anderson Daronco
+Cruzeiro EC,12,América Mineiro,19,25,"dom, 01/10/23",16:00,1,1,Estádio Governador Magalhães Pinto,44.279 torcedores,Leandro Pedro Vuaden
+Coritiba FC,20,Athletico Paranaense,8,25,"dom, 01/10/23",16:00,2,0,Estádio Major Antônio Couto Pereira,20.992 torcedores,Bruno Arleu de Araújo
+RB Bragantino,2,SE Palmeiras,4,25,"dom, 01/10/23",18:30,2,1,Estádio Nabi Abi Chedid,9.093 torcedores,Wagner do Nascimento Magalhães
+Botafogo FR,1,Goiás EC,16,25,"seg, 02/10/23",20:00,1,1,Estádio Olímpico Nilton Santos,34.294 torcedores,Braulio da Silva Machado
+Goiás EC,18,EC Bahia,16,26,"sáb, 07/10/23",16:00,4,6,Estádio Serra Dourada,9.001 torcedores,Raphael Claus
+CR Vasco da Gama,17,São Paulo FC,10,26,"sáb, 07/10/23",18:30,0,0,Estádio São Januário,20.690 torcedores,Braulio da Silva Machado
+SC Corinthians,14,CR Flamengo,5,26,"sáb, 07/10/23",21:00,1,1,Neo Química Arena,40.800 torcedores,Anderson Daronco
+Fluminense FC,7,Botafogo FR,1,26,"dom, 08/10/23",16:00,0,2,Estádio Jornalista Mário Filho,45.193 torcedores,Leandro Pedro Vuaden
+SE Palmeiras,4,Santos FC,15,26,"dom, 08/10/23",16:00,1,2,Arena Barueri,17.049 torcedores,Flavio Rodrigues de Souza
+SC Internacional,12,Grêmio FBPA,3,26,"dom, 08/10/23",16:00,3,2,Estádio Beira-Rio,39.133 torcedores,Paulo Cesar Zanovelli
+Atlético Mineiro,9,Coritiba FC,19,26,"dom, 08/10/23",18:30,1,2,Arena MRV,38.350 torcedores,Marcelo de Lima Henrique  (RJ)
+Athletico Paranaense,8,RB Bragantino,2,26,"dom, 08/10/23",18:30,1,1,Ligga Arena,15.388 torcedores,Yuri Elino Ferreira da Cruz
+Fortaleza EC,6,América Mineiro,20,26,"dom, 08/10/23",18:30,3,2,Estádio Governador Plácido Castelo,23.830 torcedores,Bruno Arleu de Araújo
+Cuiabá EC,11,Cruzeiro EC,13,26,"sáb, 14/10/23",21:00,0,0,Arena Pantanal,12.100 torcedores,Rodrigo Jose Pereira de Lima
+Grêmio FBPA,4,Athletico Paranaense,6,27,"qua, 18/10/23",19:00,1,2,Arena do Grêmio,24.679 torcedores,Luiz Flávio de Oliveira (SP)
+Coritiba FC,19,Cuiabá EC,10,27,"qua, 18/10/23",20:00,0,3,Estádio Major Antônio Couto Pereira,20.873 torcedores,Denis Ribeiro Serafim
+América Mineiro,20,Botafogo FR,1,27,"qua, 18/10/23",20:00,1,2,Estádio Raimundo Sampaio,6.230 torcedores,Anderson Daronco
+CR Vasco da Gama,16,Fortaleza EC,8,27,"qua, 18/10/23",21:30,1,0,Estádio São Januário,20.255 torcedores,Leandro Pedro Vuaden
+Goiás EC,18,São Paulo FC,11,27,"qua, 18/10/23",21:30,2,0,Estádio do Governo do Estado de Goiás,12.685 torcedores,Rodrigo Jose Pereira de Lima
+EC Bahia,14,SC Internacional,12,27,"qua, 18/10/23",21:30,1,0,Arena Fonte Nova,31.385 torcedores,Marcelo de Lima Henrique  (RJ)
+SE Palmeiras,5,Atlético Mineiro,7,27,"qui, 19/10/23",19:00,0,2,Allianz Parque,27.718 torcedores,Bruno Arleu de Araújo
+Cruzeiro EC,15,CR Flamengo,3,27,"qui, 19/10/23",19:00,0,2,Estádio Governador Magalhães Pinto,37.073 torcedores,Rafael Rodrigo Klein
+Santos FC,17,RB Bragantino,2,27,"qui, 19/10/23",20:00,1,3,Estádio Urbano Caldeira,12.850 torcedores,Raphael Claus
+Fluminense FC,9,SC Corinthians,13,27,"qui, 19/10/23",21:30,3,3,Estádio Jornalista Mário Filho,36.916 torcedores,Paulo Cesar Zanovelli
+São Paulo FC,10,Grêmio FBPA,6,28,"sáb, 21/10/23",18:30,3,0,MorumBIS,47.132 torcedores,André Luiz Skettino Policarpo Bento
+EC Bahia,13,Fortaleza EC,8,28,"sáb, 21/10/23",18:30,2,0,Arena Fonte Nova,44.761 torcedores,Rodrigo Jose Pereira de Lima
+Cuiabá EC,11,Goiás EC,16,28,"sáb, 21/10/23",18:30,1,1,Arena Pantanal,14.956 torcedores,Anderson Daronco
+Botafogo FR,1,Athletico Paranaense,5,28,"sáb, 21/10/23",21:00,1,1,Estádio Olímpico Nilton Santos,36.908 torcedores,Matheus Delgado Candançan
+CR Flamengo,3,CR Vasco da Gama,17,28,"dom, 22/10/23",16:00,1,0,Estádio Jornalista Mário Filho,69.473 torcedores,Raphael Claus
+Atlético Mineiro,7,Cruzeiro EC,14,28,"dom, 22/10/23",16:00,0,1,Arena MRV,42.058 torcedores,Ramon Abatti
+SC Internacional,12,Santos FC,18,28,"dom, 22/10/23",16:00,7,1,Estádio Beira-Rio,36.584 torcedores,Paulo Cesar Zanovelli
+SC Corinthians,15,América Mineiro,20,28,"dom, 22/10/23",18:30,1,1,Neo Química Arena,38.121 torcedores,Yuri Elino Ferreira da Cruz
+RB Bragantino,2,Fluminense FC,9,28,"dom, 22/10/23",18:30,1,0,Estádio Nabi Abi Chedid,6.813 torcedores,Wilton Sampaio
+Coritiba FC,19,SE Palmeiras,4,28,"dom, 22/10/23",18:30,0,2,Estádio Major Antônio Couto Pereira,19.387 torcedores,Rafael Rodrigo Klein
+Fluminense FC,8,Goiás EC,17,29,"qua, 25/10/23",19:00,5,3,Estádio General Sylvio Raulino de Oliveira,4.793 torcedores,Leandro Pedro Vuaden
+RB Bragantino,2,Atlético Mineiro,7,29,"qua, 25/10/23",19:00,1,2,Estádio Nabi Abi Chedid,5.494 torcedores,Marcelo de Lima Henrique  (RJ)
+Athletico Paranaense,5,América Mineiro,20,29,"qua, 25/10/23",19:00,3,2,Ligga Arena,20.672 torcedores,Anderson Daronco
+SE Palmeiras,3,São Paulo FC,10,29,"qua, 25/10/23",20:00,5,0,Allianz Parque,32.618 torcedores,Raphael Claus
+Cruzeiro EC,13,EC Bahia,15,29,"qua, 25/10/23",20:00,3,0,Estádio Governador Magalhães Pinto,36.104 torcedores,Flavio Rodrigues de Souza
+Grêmio FBPA,6,CR Flamengo,4,29,"qua, 25/10/23",21:30,3,2,Arena do Grêmio,22.325 torcedores,Rodrigo Jose Pereira de Lima
+Cuiabá EC,12,SC Corinthians,14,29,"qua, 25/10/23",21:30,0,1,Arena Pantanal,36.620 torcedores,André Luiz Skettino Policarpo Bento
+CR Vasco da Gama,18,SC Internacional,11,29,"qui, 26/10/23",19:00,1,2,Estádio São Januário,20.098 torcedores,Luiz Flávio de Oliveira (SP)
+Santos FC,16,Coritiba FC,19,29,"qui, 26/10/23",21:30,2,1,Estádio Urbano Caldeira,12.205 torcedores,Wagner do Nascimento Magalhães
+Fortaleza EC,9,Botafogo FR,1,29,"qui, 23/11/23",18:00,2,2,Estádio Governador Plácido Castelo,25.828 torcedores,Ramon Abatti
+SE Palmeiras,2,EC Bahia,15,30,"sáb, 28/10/23",19:00,1,0,Allianz Parque,33.747 torcedores,Rodrigo Jose Pereira de Lima
+América Mineiro,20,Grêmio FBPA,5,30,"sáb, 28/10/23",19:00,3,4,Estádio Raimundo Sampaio,3.008 torcedores,Matheus Delgado Candançan
+Atlético Mineiro,6,Fluminense FC,8,30,"sáb, 28/10/23",20:00,2,0,Arena MRV,23.003 torcedores,Raphael Claus
+Goiás EC,17,CR Vasco da Gama,18,30,"dom, 29/10/23",16:00,1,1,Estádio Serra Dourada,12.904 torcedores,Flavio Rodrigues de Souza
+Athletico Paranaense,7,São Paulo FC,12,30,"dom, 29/10/23",16:00,1,1,Ligga Arena,27.604 torcedores,Rafael Rodrigo Klein
+SC Corinthians,14,Santos FC,16,30,"dom, 29/10/23",18:30,1,1,Neo Química Arena,42.248 torcedores,Anderson Daronco
+SC Internacional,13,Coritiba FC,19,30,"dom, 29/10/23",18:30,3,4,Estádio Beira-Rio,36.272 torcedores,André Luiz Skettino Policarpo Bento
+Botafogo FR,1,Cuiabá EC,10,30,"dom, 29/10/23",20:00,0,1,Estádio Olímpico Nilton Santos,30.659 torcedores,Wilton Sampaio
+Fortaleza EC,9,Cruzeiro EC,11,30,"sáb, 18/11/23",17:30,0,1,Estádio Governador Plácido Castelo,30.804 torcedores,Savio Pereira Sampaio
+CR Flamengo,3,RB Bragantino,4,30,"qui, 23/11/23",20:30,1,0,Estádio Jornalista Mário Filho,57.699 torcedores,Braulio da Silva Machado
+EC Bahia,15,Fluminense FC,8,31,"ter, 31/10/23",18:00,1,0,Arena Fonte Nova,34.319 torcedores,Edina Alves Batista
+SC Corinthians,13,Athletico Paranaense,7,31,"qua, 01/11/23",18:00,1,0,Neo Química Arena,29.870 torcedores,Leandro Pedro Vuaden
+SC Internacional,14,América Mineiro,20,31,"qua, 01/11/23",18:00,1,1,Estádio Beira-Rio,14.961 torcedores,Flavio Rodrigues de Souza
+CR Flamengo,5,Santos FC,16,31,"qua, 01/11/23",19:00,1,2,Estádio Nacional de Brasília Mané Garrincha,64.708 torcedores,Rafael Rodrigo Klein
+Coritiba FC,19,Grêmio FBPA,4,31,"qua, 01/11/23",19:00,1,2,Estádio Major Antônio Couto Pereira,24.308 torcedores,Marcelo de Lima Henrique  (RJ)
+Botafogo FR,1,SE Palmeiras,2,31,"qua, 01/11/23",20:30,3,4,Estádio Olímpico Nilton Santos,34.913 torcedores,Braulio da Silva Machado
+Atlético Mineiro,6,Fortaleza EC,9,31,"qua, 01/11/23",20:30,3,1,Arena MRV,28.898 torcedores,Matheus Delgado Candançan
+Cuiabá EC,11,CR Vasco da Gama,17,31,"qui, 02/11/23",16:00,0,2,Arena Pantanal,27.604 torcedores,Ramon Abatti
+Goiás EC,18,RB Bragantino,3,31,"qui, 02/11/23",17:00,0,2,Estádio Serra Dourada,10.182 torcedores,Rodrigo Jose Pereira de Lima
+São Paulo FC,10,Cruzeiro EC,12,31,"qui, 02/11/23",19:00,1,0,MorumBIS,50.570 torcedores,Wilton Sampaio
+Grêmio FBPA,4,EC Bahia,16,32,"sáb, 04/11/23",18:30,1,0,Arena do Grêmio,40.154 torcedores,Braulio da Silva Machado
+América Mineiro,20,Atlético Mineiro,6,32,"sáb, 04/11/23",18:30,1,1,Estádio Municipal Parque do Sabiá,5.706 torcedores,Rodrigo Jose Pereira de Lima
+SE Palmeiras,2,Athletico Paranaense,7,32,"sáb, 04/11/23",20:30,1,0,Arena Barueri,17.301 torcedores,Wilton Sampaio
+RB Bragantino,3,SC Corinthians,14,32,"dom, 05/11/23",15:00,1,0,Estádio Nabi Abi Chedid,10.797 torcedores,Raphael Claus
+Cruzeiro EC,13,SC Internacional,11,32,"dom, 05/11/23",15:00,1,2,Estádio Governador Magalhães Pinto,36.801 torcedores,Matheus Delgado Candançan
+Fortaleza EC,9,CR Flamengo,5,32,"dom, 05/11/23",15:00,0,2,Estádio Governador Plácido Castelo,49.324 torcedores,Anderson Daronco
+Coritiba FC,19,Goiás EC,18,32,"dom, 05/11/23",17:30,0,1,Estádio Major Antônio Couto Pereira,12.942 torcedores,Rafael Rodrigo Klein
+CR Vasco da Gama,17,Botafogo FR,1,32,"seg, 06/11/23",18:00,1,0,Estádio São Januário,21.043 torcedores,Leandro Pedro Vuaden
+Santos FC,15,Cuiabá EC,12,32,"seg, 06/11/23",20:00,0,0,Estádio Urbano Caldeira,12.923 torcedores,Savio Pereira Sampaio
+Fluminense FC,8,São Paulo FC,10,32,"qua, 22/11/23",20:30,1,0,Estádio Jornalista Mário Filho,44.694 torcedores,André Luiz Skettino Policarpo Bento
+SC Internacional,12,Fluminense FC,8,33,"qua, 08/11/23",18:00,0,0,Estádio Beira-Rio,18.669 torcedores,Rodrigo Jose Pereira de Lima
+América Mineiro,20,Coritiba FC,19,33,"qua, 08/11/23",18:00,0,3,Estádio Raimundo Sampaio,1.943 torcedores,Marcelo de Lima Henrique  (RJ)
+São Paulo FC,9,RB Bragantino,5,33,"qua, 08/11/23",19:00,1,0,Estádio Urbano Caldeira,11.948 torcedores,Flavio Rodrigues de Souza
+Athletico Paranaense,7,Fortaleza EC,11,33,"qua, 08/11/23",19:00,1,1,Ligga Arena,19.831 torcedores,Raphael Claus
+CR Flamengo,4,SE Palmeiras,3,33,"qua, 08/11/23",20:30,3,0,Estádio Jornalista Mário Filho,64.590 torcedores,Rodrigo Jose Pereira de Lima
+SC Corinthians,15,Atlético Mineiro,6,33,"qui, 09/11/23",18:00,1,1,Neo Química Arena,30.348 torcedores,Braulio da Silva Machado
+Goiás EC,18,Santos FC,13,33,"qui, 09/11/23",18:00,0,1,Estádio Serra Dourada,11.836 torcedores,Paulo Cesar Zanovelli
+Botafogo FR,1,Grêmio FBPA,2,33,"qui, 09/11/23",19:00,3,4,Estádio São Januário,17.708 torcedores,Ramon Abatti
+EC Bahia,17,Cuiabá EC,10,33,"qui, 09/11/23",19:00,0,3,Arena Fonte Nova,33.931 torcedores,Felipe Fernandes
+Cruzeiro EC,14,CR Vasco da Gama,16,33,"qua, 22/11/23",18:00,2,2,Estádio Governador Magalhães Pinto,Árbitro:,Leandro Pedro Vuaden
+Coritiba FC,19,Cruzeiro EC,16,34,"sáb, 11/11/23",15:00,1,0,Estádio Durival Britto e Silva,7.243 torcedores,Braulio da Silva Machado
+CR Flamengo,3,Fluminense FC,8,34,"sáb, 11/11/23",17:30,1,1,Estádio Jornalista Mário Filho,64.399 torcedores,Wilton Sampaio
+SE Palmeiras,1,SC Internacional,13,34,"sáb, 11/11/23",20:00,3,0,Arena Barueri,19.358 torcedores,Paulo Cesar Zanovelli
+RB Bragantino,5,Botafogo FR,2,34,"dom, 12/11/23",15:00,2,2,Estádio Nabi Abi Chedid,9.869 torcedores,Anderson Daronco
+Grêmio FBPA,4,SC Corinthians,12,34,"dom, 12/11/23",15:00,0,1,Arena do Grêmio,51.842 torcedores,Rodrigo Jose Pereira de Lima
+CR Vasco da Gama,15,América Mineiro,20,34,"dom, 12/11/23",17:30,2,1,Estádio São Januário,19.478 torcedores,Savio Pereira Sampaio
+Santos FC,14,São Paulo FC,10,34,"dom, 12/11/23",17:30,0,0,Estádio Urbano Caldeira,13.442 torcedores,Raphael Claus
+Atlético Mineiro,6,Goiás EC,18,34,"dom, 12/11/23",17:30,2,1,Arena MRV,29.173 torcedores,Marcelo de Lima Henrique  (RJ)
+EC Bahia,17,Athletico Paranaense,7,34,"dom, 12/11/23",17:30,1,1,Arena Fonte Nova,33.978 torcedores,Rafael Rodrigo Klein
+Cuiabá EC,9,Fortaleza EC,11,34,"dom, 12/11/23",17:30,2,1,Arena Pantanal,14.728 torcedores,Caio Max Augusto Vieira
+SC Corinthians,14,EC Bahia,17,35,"sex, 24/11/23",20:00,1,5,Neo Química Arena,39.403 torcedores,Marcelo de Lima Henrique  (RJ)
+Athletico Paranaense,8,CR Vasco da Gama,16,35,"sáb, 25/11/23",18:30,0,0,Ligga Arena,22.056 torcedores,Anderson Daronco
+Fluminense FC,7,Coritiba FC,19,35,"sáb, 25/11/23",20:00,2,1,Estádio Jornalista Mário Filho,19.219 torcedores,Matheus Delgado Candançan
+Botafogo FR,3,Santos FC,15,35,"dom, 26/11/23",15:00,1,1,Estádio Olímpico Nilton Santos,29.387 torcedores,Wilton Sampaio
+Atlético Mineiro,4,Grêmio FBPA,5,35,"dom, 26/11/23",15:00,3,0,Arena MRV,39.337 torcedores,Braulio da Silva Machado
+São Paulo FC,10,Cuiabá EC,9,35,"dom, 26/11/23",17:30,0,0,MorumBIS,34.252 torcedores,Paulo Cesar Zanovelli
+SC Internacional,11,RB Bragantino,6,35,"dom, 26/11/23",17:30,1,0,Estádio Beira-Rio,22.170 torcedores,Felipe Fernandes
+Fortaleza EC,12,SE Palmeiras,1,35,"dom, 26/11/23",17:30,2,2,Estádio Governador Plácido Castelo,40.382 torcedores,André Luiz Skettino Policarpo Bento
+América Mineiro,20,CR Flamengo,2,35,"dom, 26/11/23",17:30,0,3,Estádio Municipal Parque do Sabiá,39.900 torcedores,Rodrigo Jose Pereira de Lima
+Goiás EC,18,Cruzeiro EC,13,35,"seg, 27/11/23",19:00,0,1,Estádio Serra Dourada,9.143 torcedores,Ramon Abatti
+CR Vasco da Gama,16,SC Corinthians,13,36,"ter, 28/11/23",20:30,2,4,Estádio São Januário,20.577 torcedores,Savio Pereira Sampaio
+Santos FC,15,Fluminense FC,7,36,"qua, 29/11/23",18:00,0,3,Estádio Urbano Caldeira,12.855 torcedores,Anderson Daronco
+CR Flamengo,4,Atlético Mineiro,3,36,"qua, 29/11/23",18:30,0,3,Estádio Jornalista Mário Filho,65.305 torcedores,Ramon Abatti
+EC Bahia,17,São Paulo FC,9,36,"qua, 29/11/23",19:00,0,1,Arena Fonte Nova,46.288 torcedores,Braulio da Silva Machado
+Cuiabá EC,12,SC Internacional,10,36,"qua, 29/11/23",19:00,0,2,Arena Pantanal,12.527 torcedores,Dyorgines Jose Padovani
+SE Palmeiras,1,América Mineiro,20,36,"qua, 29/11/23",20:30,4,0,Allianz Parque,29.717 torcedores,Wilton Sampaio
+Coritiba FC,19,Botafogo FR,2,36,"qua, 29/11/23",20:30,1,1,Estádio Major Antônio Couto Pereira,Árbitro:,Rodrigo Jose Pereira de Lima
+Grêmio FBPA,5,Goiás EC,18,36,"qui, 30/11/23",18:00,2,1,Arena do Grêmio,38.683 torcedores,Marcelo de Lima Henrique  (RJ)
+Cruzeiro EC,14,Athletico Paranaense,8,36,"qui, 30/11/23",19:00,1,1,Estádio Governador Magalhães Pinto,36.696 torcedores,Leandro Pedro Vuaden
+RB Bragantino,6,Fortaleza EC,11,36,"qui, 30/11/23",19:30,1,2,Estádio Nabi Abi Chedid,4.596 torcedores,Denis Ribeiro Serafim
+SC Corinthians,13,SC Internacional,9,37,"sáb, 02/12/23",17:00,1,2,Neo Química Arena,40.583 torcedores,Caio Max Augusto Vieira
+Atlético Mineiro,2,São Paulo FC,11,37,"sáb, 02/12/23",20:00,2,1,Estádio Governador Magalhães Pinto,53.856 torcedores,Savio Pereira Sampaio
+CR Flamengo,3,Cuiabá EC,12,37,"dom, 03/12/23",15:00,2,1,Estádio Jornalista Mário Filho,63.148 torcedores,Rodrigo Jose Pereira de Lima
+SE Palmeiras,1,Fluminense FC,7,37,"dom, 03/12/23",15:00,1,0,Allianz Parque,29.986 torcedores,Braulio da Silva Machado
+Botafogo FR,5,Cruzeiro EC,14,37,"dom, 03/12/23",17:30,0,0,Estádio Olímpico Nilton Santos,15.462 torcedores,Wilton Sampaio
+RB Bragantino,6,Coritiba FC,19,37,"dom, 03/12/23",17:30,1,0,Estádio Nabi Abi Chedid,3.442 torcedores,Dyorgines Jose Padovani
+Grêmio FBPA,4,CR Vasco da Gama,16,37,"dom, 03/12/23",17:30,1,0,Arena do Grêmio,50.481 torcedores,Ramon Abatti
+Athletico Paranaense,8,Santos FC,15,37,"dom, 03/12/23",17:30,3,0,Ligga Arena,21.056 torcedores,Rafael Rodrigo Klein
+Fortaleza EC,10,Goiás EC,18,37,"dom, 03/12/23",17:30,1,0,Estádio Governador Plácido Castelo,50.317 torcedores,Anderson Daronco
+América Mineiro,20,EC Bahia,17,37,"dom, 03/12/23",17:30,3,2,Estádio Raimundo Sampaio,2.471 torcedores,Marcelo de Lima Henrique  (RJ)
+Goiás EC,18,América Mineiro,20,38,"qua, 06/12/23",18:00,1,0,Estádio Serra Dourada,1.966 torcedores,Davi de Oliveira Lacerda
+Fluminense FC,7,Grêmio FBPA,2,38,"qua, 06/12/23",20:30,2,3,Estádio Jornalista Mário Filho,44.190 torcedores,Raphael Claus
+CR Vasco da Gama,15,RB Bragantino,6,38,"qua, 06/12/23",20:30,2,1,Estádio São Januário,20.037 torcedores,Wilton Sampaio
+São Paulo FC,11,CR Flamengo,4,38,"qua, 06/12/23",20:30,1,0,MorumBIS,36.618 torcedores,Caio Max Augusto Vieira
+Santos FC,17,Fortaleza EC,10,38,"qua, 06/12/23",20:30,1,2,Estádio Urbano Caldeira,14.130 torcedores,Leandro Pedro Vuaden
+Cruzeiro EC,14,SE Palmeiras,1,38,"qua, 06/12/23",20:30,1,1,Estádio Governador Magalhães Pinto,44.190 torcedores,Anderson Daronco
+SC Internacional,9,Botafogo FR,5,38,"qua, 06/12/23",20:30,3,1,Estádio Beira-Rio,27.365 torcedores,Flavio Rodrigues de Souza
+Coritiba FC,19,SC Corinthians,13,38,"qua, 06/12/23",20:30,0,2,Estádio Major Antônio Couto Pereira,Árbitro:,Jonathan Benkenstein Pinheiro
+EC Bahia,16,Atlético Mineiro,3,38,"qua, 06/12/23",20:30,4,1,Arena Fonte Nova,28.019 torcedores,Ramon Abatti
+Cuiabá EC,12,Athletico Paranaense,8,38,"qua, 06/12/23",20:30,3,0,Arena Pantanal,9.689 torcedores,Paulo Belence Alves dos Prazeres Filho
