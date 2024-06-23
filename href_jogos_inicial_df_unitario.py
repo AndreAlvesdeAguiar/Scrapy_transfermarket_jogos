@@ -142,4 +142,4 @@ else:
 
 # Remover linhas que contenham valores "N/A"
 # df_final = df_final.replace('N/A', pd.NA).dropna()
-# df_final.to_csv('dados_br_campeonato_2022.csv', index=False, encoding='utf-8-sig')
+# df_final.to_csv('dados_br_campeonato_2023.csv', index=False, encoding='utf-8-sig')
